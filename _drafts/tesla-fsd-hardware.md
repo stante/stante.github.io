@@ -9,14 +9,14 @@ categories: self-driving
 
 Tesla invited investors to their first "Tesla Autonomy Investors Day"
 which was held on the 22nd of April 2019 at the Tesla Headquarters in
-Palo Alto[^1]. According to Tesa, the intention of the event was to
-narrow the gap in perception of what can be seen outside of Tesla
-related to autonomous driving and the actual developments within the
+Palo Alto[^1]. According to Tesa, the event intended to narrow the gap
+in perception of what can be seen outside of Tesla related to
+autonomous driving and the actual developments within the
 company. This article summarizes the presentation given by Pete
 Bannon.
 
 ## Full Self-Driving Computer
-Tesla was working on a new hardware as the basis for the new full
+Tesla was working on a new hardware as the basis for the latest full
 self-driving capabilities of the Tesla cars which is correspondingly
 called "Full Self-Driving Computer".
 
@@ -31,7 +31,7 @@ equipped with the new hardware as well.
 The FSD hardware was designed to be able to be retrofit into existing
 cars, making it necessary to have a power consumption of less than
 100W. Performance wise Tesla estimated that at least 50 TOPS (billion
-operations per second) are necessary to drive a car. The FSD chip was
+operations per second) are essential to drive a car. The FSD chip was
 tailored for one trait, which is autonomous driving. It was optimized
 to work with a batch size of 1 to have very low latency and it is used
 for neural network inference only and **not** neural network learning.
