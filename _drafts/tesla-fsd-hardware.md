@@ -8,12 +8,12 @@ categories: self-driving
 ---
 
 Tesla invited investors to their first "Tesla Autonomy Investors Day"
-event which was held on the 22nd of April 2019 at the Tesla
-Headquarters in Palo Alto[^1]. According to Tesa, the intention of the
-event was to narrow the gap in perception of what can be seen outside
-of Tesla related to autonomous driving and the actual developments
-within the company. This article summarizes the presentation given by
-Pete Bannon.
+which was held on the 22nd of April 2019 at the Tesla Headquarters in
+Palo Alto[^1]. According to Tesa, the intention of the event was to
+narrow the gap in perception of what can be seen outside of Tesla
+related to autonomous driving and the actual developments within the
+company. This article summarizes the presentation given by Pete
+Bannon.
 
 ## Full Self-Driving Computer
 Tesla was working on a new hardware as the basis for the new full
@@ -22,16 +22,16 @@ called "Full Self-Driving Computer".
 
 The main component of the "Full Self-Driving Computer" is the "Full
 Self-Driving Chip" which was developed in-house by Tesla. The chip was
-designed in 18 month and in July 2018 mass production started. The new
-hardware replaces the HW2.5, which is based on NVIDIA's Drive PX2[^2]
-hardware. Since March 2019 the old HW2.5 got replaced in the Model S
-and X and since beginning of April 2019 all Model 3 are equipped with
-the new hardware as well.
+designed in 18 months and in July 2018 mass production started. The
+new hardware replaces the HW2.5, which is based on NVIDIA's Drive
+PX2[^2] hardware. Since March 2019 the old HW2.5 got replaced in the
+Model S and X and since the beginning of April 2019, all Model 3 are
+equipped with the new hardware as well.
 
 The FSD hardware was designed to be able to be retrofit into existing
 cars, making it necessary to have a power consumption of less than
 100W. Performance wise Tesla estimated that at least 50 TOPS (billion
-operation per second) are necessary to drive a car. The FSD chip was
+operations per second) are necessary to drive a car. The FSD chip was
 tailored for one trait, which is autonomous driving. It was optimized
 to work with a batch size of 1 to have very low latency and it is used
 for neural network inference only and **not** neural network learning.
